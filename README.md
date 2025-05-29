@@ -25,7 +25,7 @@
 
 🖼 Preview
 
-![Cinema 4D Studio Interface](https://img.utdstc.com/icon/596/766/59676653263343aad87c6a2a751b8f9be4ca49df3e5ce8899010b5af2256a8a5:200)  
+![Cinema 4D Studio Interface](https://www.microfilmmaker.com/wp-content/uploads/2013/10/screen_studio.jpg)  
 *Cinema 4D Studio user interface on Mac*
 
 ![Modeling Workflow](https://i.ytimg.com/vi/qnZHQlBmMD8/maxresdefault.jpg)  
